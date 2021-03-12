@@ -1,11 +1,15 @@
 {
   "name": "js-start",
   "version": "1.0.0",
+  "type": "module",
   "description": "* number 1\r * number 2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Elena Gumerova gumerova.e.p@ya.ru",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
